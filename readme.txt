@@ -9,10 +9,10 @@
 * [X] Comprendre le fonctionnement de Git
   * [X] Comprendre le staging de Git
   * [X] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    * [ ] git init
-    * [ ] git add
-    * [ ] git status
-    * [ ] git commit
+    * [X] git init
+    * [X] git add
+    * [X] git status
+    * [X] git commit
     * [ ] git pull
     * [ ] git push
     * [ ] git clone
